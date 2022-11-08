@@ -1,10 +1,10 @@
 
 import React, { useState } from 'react';
 import Alert from 'react-bootstrap/Alert';
-import Button from 'react-bootstrap/Button';
+
 
 function About() {
-  const [show, setShow] = useState(true);
+  const [show] = useState(true);
 
 
     return(
@@ -12,9 +12,12 @@ function About() {
       <Alert show={show} variant="warning">
         <Alert.Heading>Orsha Goines</Alert.Heading>
         <p>
-       Write About Myself Here
+       Get to know me
         </p>
         <hr />
+        <p>
+          Full stack web developer, passionate and fighter. Determined to get all the task assigned to be completed with accuracy.
+        </p>
         {/* <div className="d-flex justify-content-end">
           <Button onClick={() => setShow(false)} variant="outline-success">
             Close me y'all!

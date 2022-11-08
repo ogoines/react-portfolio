@@ -5,6 +5,7 @@ import Contact from "../pages/Contact";
 import About from "../pages/About";
 import Resume from "../pages/Resume";
 import Portfolio from "../pages/Portfolio";
+import Home from "../pages/Home";
 
 function HeaderNav() {
   const [key, setKey] = useState('home');
@@ -18,7 +19,7 @@ function HeaderNav() {
     >
       
       <Tab eventKey="home" title="Home">
-       <About />
+       <Home />
       </Tab>
       <Tab eventKey="about" title="About">
        <About />

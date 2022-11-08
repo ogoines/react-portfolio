@@ -1,0 +1,66 @@
+[
+    {
+        "title":"Accessibility Website",
+        "description":"Marketing Website demonstrating user accessibility through code use and structure",
+        "github":"https://github.com/ogoines/Accessibility-Website",
+        "live":"https://ogoines.github.io/Accessibility-Website/",
+        "image":"/screenshot/accessibility.png"
+    },
+    
+    {
+        "title":"Weather Forecaster",
+        "description":"Weather Dashboard with 5 day forecast of entered cities",
+        "github":"https://github.com/ogoines/weather-forecaster.git",
+        "live":"https://ogoines.github.io/weather-forecaster/",
+        "image":"/screenshot/weather.png"
+    },
+    
+    
+    {
+        "title":"A Professional Note Taker",
+        "description":"HTML5 and CSS code refactor assignment",
+        "github":"https://github.com/ogoines/a-professional-note-taker",
+        "live":"https://peaceful-temple-54063.herokuapp.com/",
+        "image":"/screenshot/coderefactor.jpg"
+    },
+    
+    {
+        "title":"Ecommerce API",
+        "description":"HTML5 and CSS code refactor assignment",
+        "github":"ttps://github.com/ogoines/ecommerce-api.git",
+        "live":"",
+        "image":"/screenshot/coderefactor.jpg"
+    },
+    
+    {
+        "title":"The Tech Blog",
+        "description":"Full Stack with Authorization",
+        "github":"https://github.com/ogoines/the-tech-blog.git",
+        "live":"",
+        "image":"/screenshot/coderefactor.jpg"
+    },
+    
+    {
+        "title":"Team Profile Generator",
+        "description":"HTML5 and CSS code refactor assignment",
+        "github":"https://github.com/ogoines/team-profile-generator.git ",
+        "live":"",
+        "image":"/screenshot/coderefactor.jpg"
+    },
+    
+    {
+        "title":"Global Foods and Cocktails ",
+        "description":"Global Food and Drink API",
+        "github":"https://github.com/ogoines/Global-Foods-Cocktails.git",
+        "live":"https://mwilk94.github.io/Global-Foods-Cocktails/",
+        "image":"/screenshot/food.png"
+    },
+
+    {
+        "title":"Social Media API",
+        "description":"Express MongoDB Mongoose ",
+        "github":"https://github.com/ogoines/team-profile-generator.git ",
+        "live":"https://drive.google.com/file/d/1DNLFHZCH8a3kReILtFgC2E0Mzu4-gSyi/view",
+        "image":"/screenshot/coderefactor.jpg"
+    }
+]

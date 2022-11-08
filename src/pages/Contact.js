@@ -24,15 +24,18 @@ function Contact() {
             <ul>
                 <li>
                 <p>
-        <a href="" target="_blank">Linked In</a></p>
+                    <a href="https://www.linkedin.com/in/orsha-goines-32a0a11a4" rel="noreferrer noopener" target="_blank">Linked In</a></p>
                 </li>
                 <li>
                     <p>
-                    <a href="" target="_blank">github</a>
+                    <a href="https://github.com/ogoines" rel="noreferrer noopener" target="_blank">github</a>
                     </p>
 
                 </li>
             </ul>
+            <section className='container'>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfwVUPN8o8yEXEWRZ8wvbhTBNb-rulg5LFnWMrxOZgXFOuLw/viewform?embedded=true" width="640" height="947" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            </section>
        
     
       
