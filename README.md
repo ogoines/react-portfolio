@@ -12,9 +12,11 @@
  - [Questions](#Questions)
 
  ## Usage
- The Javascript Quiz is deployed on Github and can be accessed by visiting:
+ The repository can be viewed at the following Github address
+ and can be run using Node.js with the 
+ `npm start` command.
  
- https://ogoines.github.io/react-portfolio/
+ `https://ogoines.github.io/react-portfolio/`
  
  ## License
  GPL 3.0
