@@ -7,9 +7,9 @@ function Home() {
         <Alert show={show} variant="warning">
             <Alert.Heading>Orsha Goines</Alert.Heading>
             <p>
-                motivation quote
+                motivational quote
             </p>
-            <p>Ymca</p>
+            <p></p>
             <hr />
             <div id="carouselExampleIndicators" className="carousel slide m-5 p-5" data-bs-ride="true">
                 <div className="carousel-indicators">
@@ -19,10 +19,10 @@ function Home() {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src={process.env.PUBLIC_URL + "/about/outsideme.jpg"} className="d-block w-100" alt="..." />
+                        <img src={process.env.PUBLIC_URL + "/about/ymcame.png"} className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src={process.env.PUBLIC_URL + "/about/ymcame.png"} className="d-block w-100" alt="..." />
+                        <img src={process.env.PUBLIC_URL + "/about/race.jpg"} className="d-block w-100" alt="..." />
 
                     </div>
                     <div className="carousel-item">
